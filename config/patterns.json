@@ -1,0 +1,52 @@
+{
+  "flight_patterns": [
+    "\\w+-\\w+-\\w+",
+    "\\w+_\\w+_\\w+", 
+    "hurghada-\\w+", "\\w+-hurghada",
+    "marsa alam-\\w+", "\\w+-marsa alam",
+    "hrg-\\w+", "\\w+-hrg",
+    "rmf-\\w+", "\\w+-rmf",
+    "ssh-\\w+", "\\w+-ssh",
+    "for-\\w+", "\\w+-for",
+    "rho-\\w+", "\\w+-rho", 
+    "lxs-\\w+", "\\w+-lxs",
+    "kgs-\\w+", "\\w+-kgs",
+    "ayt-\\w+", "\\w+-ayt",
+    "dje-\\w+", "\\w+-dje",
+    "puj-\\w+", "\\w+-puj",
+    "cun-\\w+", "\\w+-cun",
+    "bilet.*lotnic",
+    "bilet.*poland",
+    "bilet.*polski",
+    "bilet.*aircairo",
+    "bilet.*air cairo",
+    "bilet do polski",
+    "bilet do brazylii",
+    "bilet aircairo",
+    "bilet.*instruktor",
+    "katowice-hurghada.*instruktor",
+    "flight.*ticket",
+    "air.*ticket",
+    "dental",
+    "bilet.*kite",
+    "kite.*bilet",
+    "przelot.*hurghada",
+    "hurghada.*przelot",
+    "przelot.*katowice",
+    "katowice.*przelot"
+  ],
+  
+  "kitesafari_patterns": [
+    "jacht motorowy",
+    "jacht"
+  ],
+  
+  "transfer_patterns": [
+    "transfer",
+    "taxi", 
+    "bus",
+    "przewóz",
+    "transport",
+    "dojazd"
+  ]
+}

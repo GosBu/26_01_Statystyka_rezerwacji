@@ -1,0 +1,81 @@
+{
+  "el_gouna_hotels": [
+    "movenpick el gouna", "movenpick", "movenpick resort & spa el gouna",
+    "movenpick resort & spa el gouna deluxe", "movenpick resort&spa el gouna",
+    "movenpick resort spa el gouna",
+    "sheraton", "sheraton miramar", "sheraton pokój deluxe",
+    "three corners rihana", "three corners rihana resort",
+    "the three corners rihana resort", "three corners rihana inn",
+    "the three corners rihana inn", "three corners rihanna resort",
+    "three corners rihanna inn", "rihana resort",
+    "three corners ocean view", "the three corners ocean view",
+    "three coners ocean view",
+    "steigenberger golf", "steigenberger golf resort",
+    "steigenberger golf resort el gouna", "steigenberger",
+    "labranda paradisio", "labranda club paradisio", "labranda club paradiso",
+    "labranda paradiso",
+    "panorama bungalows", "panorama bungalows resort el gouna",
+    "panorama bungalows resort", "panorama bungalows el gouna",
+    "ali pasha", "ancient sands", "bellevue beach", 
+    "casa cook", "cooks club", "cook's club",
+    "dawar el omda", "fanadir", "mosaique",
+    "sultan bey", "klientki pauliny roossultan bey", "klienci magdy darmassultan bey",
+    "ancient sands el gouna", "turtles inn", "creek",
+    "doubletree by hilton mangroovy el gouna", "doubletree by hilton mangroovy"
+  ],
+  "hamata_hotels": [
+    "wadi lahmy", "wadi lahmy azur resort", "kite village"
+  ],
+  "egypt_other_hotels": [
+    "palm royale soma bay",
+    "sentido palm royale soma bay", "sentido palm royale",
+    "palm royale", "sentido palm royal",
+    "palm royale soma bay resort", "palm royale soma bay deluxe",
+    "caribbean world", "caribbean world soma bay",
+    "caribbean world resort soma bay",
+    "sentido mamlouk palace", "labranda",
+    "hilton marsa alam", "calimera akassia swiss resort",
+    "the three corners sea beach resort marsa alam",
+    "faraana reef resort", "baron palms resort",
+    "bahia principe grand tulum", "titanic palace & aqua park beach resort",
+    "club paradisio", "jaz aquamarine resort",
+    "jaz lamaya resort", "pickalbatros palace port ghalib 5",
+    "pickalbatros palace port ghalib", "pickalbatros palace",
+    "pickalbatros port ghalib",
+    "radisson", "albatros palace port ghalib",
+    "radisson individuals marina port ghalib",
+    "royal tulip beach resort", "club calimera akassia",
+    "sunsol punta blanca"
+  ],
+  "greece_limnos_hotels": [
+    "keros blue"
+  ],
+  "exotic_hotels": [
+    "abora buenaventura"
+  ],
+  "training_hotels": [
+    "prasonisi club"
+  ],
+  "greece_rodos_hotels": [
+    "ledras beach"
+  ],
+  "greece_other_hotels": [
+    "aspro krino dunes", "aqua aquamarina", "delfinia resort",
+    "gaia village", "long beach club", "marabello beach resort",
+    "diana palace", "paleo art nouveau", "paleo art nouveauexpaleokastritsa"
+  ],
+  "turkey_hotels": [
+    "le soleil abou sofiane", "xeno eftalia resort", "kirman belazur resort & spa"
+  ],
+  "sal_hotels": [
+    "paradisio", "oasis atlantico beliorizonte"
+  ],
+  "fuerteventura_hotels": [
+    "sbh monica beach", "club paraiso playa", "melia fuerteventura"
+  ],
+  "exotic_destinations": [
+    "kuba", "dominikana", "rpa", "meksyk", "sri lanka",
+    "wenezuela", "kenia", "gwatemala", "filipiny", 
+    "wietnam", "tajlandia"
+  ]
+}
